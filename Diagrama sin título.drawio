@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T12:27:38.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="pvdMvj8Sk6qpw2D2RvUt" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T12:55:16.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="AgPp7h-AHuPVqBU0GdIX" version="20.2.8" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -245,6 +245,21 @@
               <mxPoint x="497.5" y="270" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0rFehyaGPtpCF3SvgttN-68" value="transacciones doctores&#xa;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="940" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0rFehyaGPtpCF3SvgttN-69" value="transacciones enfermeros&#xa;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="950" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0rFehyaGPtpCF3SvgttN-70" value="transacciones caja&#xa;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="950" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0rFehyaGPtpCF3SvgttN-71" value="transacciones directivos" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="950" y="420" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0rFehyaGPtpCF3SvgttN-72" value="transacciones pacientes&#xa;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="950" y="510" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
